@@ -1,2 +1,6 @@
 my file 1
+<<<<<<< HEAD
 my file 2 (local)
+=======
+my file 2 (Global)
+>>>>>>> refs/remotes/origin/main
